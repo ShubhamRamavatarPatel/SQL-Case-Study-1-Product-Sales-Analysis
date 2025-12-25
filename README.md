@@ -38,7 +38,7 @@ This project represents my ability to solve real business problems using SQL.
 - Total and average sales per product
 - State-wise profit & sales distribution
 - Marketing cost and expense analysis
-- Profit/loss based on business conditions
+- Profit/loss based on business condition
 - Ranking products by sales
 - Category based product listing
 - Increase in sales forecasting (+5% case)
